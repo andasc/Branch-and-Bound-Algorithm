@@ -9,5 +9,3 @@ add_executable(test1
     src/Solve.cpp
     src/simplex.cpp
 )
-add_executable(Simplex
-    test_simplex.cpp)
